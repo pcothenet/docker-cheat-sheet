@@ -9,6 +9,11 @@ docker attach XXX
 ```
 (where XXX are the first three characters of the Container ID)
 
+## Detach from a container 
+```bash
+CTRL-p CTRL-q
+```
+(this will keep the container running)
 
 # References
 
